@@ -5,6 +5,37 @@ Performed Data Analysis in SQL on HR Dataset using MySQL Workbench
 This project showcases the analysis of an **HR dataset** using **MySQL**. The goal is to derive useful business insights such as employee attrition rate, age distribution, departmental performance, and more by writing optimized SQL queries.
 
 ---
+# HR Dataset – Visual Overview
+
+This repository contains visual snapshots of an **HR Dataset** used for employee data analysis in SQL. Below are key previews from the dataset and its structure.
+
+---
+
+## 📷 Visuals
+
+### 1) Table: Employees  
+A preview of the main table used in the analysis.
+![Table Employees](https://github.com/prachi-janglekar/HR-Dataset-Analysis/blob/main/Screenshot%20(95).png)
+
+---
+
+### 2) Column Analysis  
+Overview of the table's columns with data types and structure.
+![Column Analysis](https://github.com/prachi-janglekar/HR-Dataset-Analysis/blob/main/Screenshot%20(96).png)
+
+---
+
+### 3) Rows (First 5)  
+Initial few records from the dataset.
+![Rows (5)](https://github.com/prachi-janglekar/HR-Dataset-Analysis/blob/main/Screenshot%20(97).png)
+
+---
+
+### 4) Recruited Employees Source  
+Breakdown of employees based on recruitment sources.
+![Recruited Employees Source](https://github.com/prachi-janglekar/HR-Dataset-Analysis/blob/main/Screenshot%20(98).png)
+
+---
 ## 📁 Database Setup
 
 ```sql
